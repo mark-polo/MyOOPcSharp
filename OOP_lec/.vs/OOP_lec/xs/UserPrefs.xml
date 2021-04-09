@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3FEFE539-128B-4A00-8414-BB677D06EF41}|Default">
+  <MonoDevelop.Ide.ItemProperties.OOP__lec PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOP_lec/Program.cs">
+    <Files>
+      <File FileName="OOP_lec/Program.cs" Line="54" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OOP_lec" expanded="True">
+            <Node name="OOP_lec" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

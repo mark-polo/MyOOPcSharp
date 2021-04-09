@@ -1,0 +1,15 @@
+/Users/mark/Projects/OOP_pr_ne/OOP_pr_ne/bin/Debug/net5.0/OOP_pr_ne.deps.json
+/Users/mark/Projects/OOP_pr_ne/OOP_pr_ne/bin/Debug/net5.0/OOP_pr_ne.runtimeconfig.json
+/Users/mark/Projects/OOP_pr_ne/OOP_pr_ne/bin/Debug/net5.0/OOP_pr_ne.runtimeconfig.dev.json
+/Users/mark/Projects/OOP_pr_ne/OOP_pr_ne/bin/Debug/net5.0/OOP_pr_ne.dll
+/Users/mark/Projects/OOP_pr_ne/OOP_pr_ne/bin/Debug/net5.0/ref/OOP_pr_ne.dll
+/Users/mark/Projects/OOP_pr_ne/OOP_pr_ne/bin/Debug/net5.0/OOP_pr_ne.pdb
+/Users/mark/Projects/OOP_pr_ne/OOP_pr_ne/obj/Debug/net5.0/OOP_pr_ne.csprojAssemblyReference.cache
+/Users/mark/Projects/OOP_pr_ne/OOP_pr_ne/obj/Debug/net5.0/OOP_pr_ne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mark/Projects/OOP_pr_ne/OOP_pr_ne/obj/Debug/net5.0/OOP_pr_ne.AssemblyInfoInputs.cache
+/Users/mark/Projects/OOP_pr_ne/OOP_pr_ne/obj/Debug/net5.0/OOP_pr_ne.AssemblyInfo.cs
+/Users/mark/Projects/OOP_pr_ne/OOP_pr_ne/obj/Debug/net5.0/OOP_pr_ne.csproj.CoreCompileInputs.cache
+/Users/mark/Projects/OOP_pr_ne/OOP_pr_ne/obj/Debug/net5.0/OOP_pr_ne.dll
+/Users/mark/Projects/OOP_pr_ne/OOP_pr_ne/obj/Debug/net5.0/ref/OOP_pr_ne.dll
+/Users/mark/Projects/OOP_pr_ne/OOP_pr_ne/obj/Debug/net5.0/OOP_pr_ne.pdb
+/Users/mark/Projects/OOP_pr_ne/OOP_pr_ne/obj/Debug/net5.0/OOP_pr_ne.genruntimeconfig.cache

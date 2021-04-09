@@ -1,0 +1,16 @@
+/Users/mark/Projects/OOP_pr_9/OOP_pr_9/bin/Debug/OOP_pr_9.exe
+/Users/mark/Projects/OOP_pr_9/OOP_pr_9/bin/Debug/OOP_pr_9.pdb
+/Users/mark/Projects/OOP_pr_9/OOP_pr_9/obj/Debug/actool/_PartialAppManifest.items
+/Users/mark/Projects/OOP_pr_9/OOP_pr_9/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/mark/Projects/OOP_pr_9/OOP_pr_9/obj/Debug/ibtool-manifests/Main.storyboardc
+/Users/mark/Projects/OOP_pr_9/OOP_pr_9/obj/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/mark/Projects/OOP_pr_9/OOP_pr_9/obj/Debug/ibtool/Main.storyboardc/MainMenu.nib/keyedobjects-110000.nib
+/Users/mark/Projects/OOP_pr_9/OOP_pr_9/obj/Debug/ibtool/Main.storyboardc/MainMenu.nib/keyedobjects.nib
+/Users/mark/Projects/OOP_pr_9/OOP_pr_9/obj/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib/keyedobjects-110000.nib
+/Users/mark/Projects/OOP_pr_9/OOP_pr_9/obj/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib/keyedobjects.nib
+/Users/mark/Projects/OOP_pr_9/OOP_pr_9/obj/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib/keyedobjects-110000.nib
+/Users/mark/Projects/OOP_pr_9/OOP_pr_9/obj/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib/keyedobjects.nib
+/Users/mark/Projects/OOP_pr_9/OOP_pr_9/obj/Debug/OOP_pr_9.csprojAssemblyReference.cache
+/Users/mark/Projects/OOP_pr_9/OOP_pr_9/obj/Debug/OOP_pr_9.csproj.CoreCompileInputs.cache
+/Users/mark/Projects/OOP_pr_9/OOP_pr_9/obj/Debug/OOP_pr_9.exe
+/Users/mark/Projects/OOP_pr_9/OOP_pr_9/obj/Debug/OOP_pr_9.pdb

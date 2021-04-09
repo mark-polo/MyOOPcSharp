@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{C34CEDB6-B41B-46D7-8E72-46DC4FC59587}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOP_pr_8_part_2/ViewController.cs">
+    <Files>
+      <File FileName="OOP_pr_8_part_2/Result.cs" Line="1" Column="1" />
+      <File FileName="OOP_pr_8_part_2/ResultController.cs" />
+      <File FileName="OOP_pr_8_part_2/MainWindow.cs" />
+      <File FileName="OOP_pr_8_part_2/MainWindowController.cs" />
+      <File FileName="OOP_pr_8_part_2/ViewController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OOP_pr_8_part_2" expanded="True">
+            <Node name="OOP_pr_8_part_2" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="ViewController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OOP__pr__8__part__2 PreferredExecutionTarget="Test1" />
+</Properties>

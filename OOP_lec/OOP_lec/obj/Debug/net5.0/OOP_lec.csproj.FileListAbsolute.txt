@@ -1,0 +1,15 @@
+/Users/mark/Projects/OOP_lec/OOP_lec/bin/Debug/net5.0/OOP_lec.deps.json
+/Users/mark/Projects/OOP_lec/OOP_lec/bin/Debug/net5.0/OOP_lec.runtimeconfig.json
+/Users/mark/Projects/OOP_lec/OOP_lec/bin/Debug/net5.0/OOP_lec.runtimeconfig.dev.json
+/Users/mark/Projects/OOP_lec/OOP_lec/bin/Debug/net5.0/OOP_lec.dll
+/Users/mark/Projects/OOP_lec/OOP_lec/bin/Debug/net5.0/ref/OOP_lec.dll
+/Users/mark/Projects/OOP_lec/OOP_lec/bin/Debug/net5.0/OOP_lec.pdb
+/Users/mark/Projects/OOP_lec/OOP_lec/obj/Debug/net5.0/OOP_lec.csprojAssemblyReference.cache
+/Users/mark/Projects/OOP_lec/OOP_lec/obj/Debug/net5.0/OOP_lec.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mark/Projects/OOP_lec/OOP_lec/obj/Debug/net5.0/OOP_lec.AssemblyInfoInputs.cache
+/Users/mark/Projects/OOP_lec/OOP_lec/obj/Debug/net5.0/OOP_lec.AssemblyInfo.cs
+/Users/mark/Projects/OOP_lec/OOP_lec/obj/Debug/net5.0/OOP_lec.csproj.CoreCompileInputs.cache
+/Users/mark/Projects/OOP_lec/OOP_lec/obj/Debug/net5.0/OOP_lec.dll
+/Users/mark/Projects/OOP_lec/OOP_lec/obj/Debug/net5.0/ref/OOP_lec.dll
+/Users/mark/Projects/OOP_lec/OOP_lec/obj/Debug/net5.0/OOP_lec.pdb
+/Users/mark/Projects/OOP_lec/OOP_lec/obj/Debug/net5.0/OOP_lec.genruntimeconfig.cache

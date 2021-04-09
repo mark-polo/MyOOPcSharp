@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.ibtool.document.errors</key>
+	<dict/>
+	<key>com.apple.ibtool.document.notices</key>
+	<dict>
+		<key>VQD-Cb-WQV</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>VQD-Cb-WQV</string>
+				</array>
+				<key>message</key>
+				<string>View is clipping its content</string>
+				<key>type</key>
+				<string>IBIssueTypeClippedContent</string>
+				<key>type-value</key>
+				<integer>13</integer>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.ibtool.document.warnings</key>
+	<dict>
+		<key>9aC-ef-j32</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>F44-YO-W0P</string>
+					<string>t5y-uU-xMo</string>
+				</array>
+				<key>message</key>
+				<string>Multiple table cell views using automatic identifier (Specify unique identifiers and implement the table view delegate method -tableView:viewForColumn:row: by using the table view method -makeViewForIdentifier: to get the view for each of these identifiers)</string>
+				<key>type</key>
+				<string>IBIssueTypeUnsupportedConfiguration</string>
+				<key>type-value</key>
+				<integer>9</integer>
+			</dict>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>F44-YO-W0P</string>
+					<string>t5y-uU-xMo</string>
+				</array>
+				<key>message</key>
+				<string>Multiple table cell views using automatic identifier (Specify unique identifiers and implement the table view delegate method -tableView:viewForColumn:row: by using the table view method -makeViewForIdentifier: to get the view for each of these identifiers)</string>
+				<key>type</key>
+				<string>IBIssueTypeUnsupportedConfiguration</string>
+				<key>type-value</key>
+				<integer>9</integer>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,15 @@
+/Users/mark/Projects/Lab4_OOP/Lab4_OOP/bin/Debug/net5.0/Lab4_OOP.deps.json
+/Users/mark/Projects/Lab4_OOP/Lab4_OOP/bin/Debug/net5.0/Lab4_OOP.runtimeconfig.json
+/Users/mark/Projects/Lab4_OOP/Lab4_OOP/bin/Debug/net5.0/Lab4_OOP.runtimeconfig.dev.json
+/Users/mark/Projects/Lab4_OOP/Lab4_OOP/bin/Debug/net5.0/Lab4_OOP.dll
+/Users/mark/Projects/Lab4_OOP/Lab4_OOP/bin/Debug/net5.0/ref/Lab4_OOP.dll
+/Users/mark/Projects/Lab4_OOP/Lab4_OOP/bin/Debug/net5.0/Lab4_OOP.pdb
+/Users/mark/Projects/Lab4_OOP/Lab4_OOP/obj/Debug/net5.0/Lab4_OOP.csprojAssemblyReference.cache
+/Users/mark/Projects/Lab4_OOP/Lab4_OOP/obj/Debug/net5.0/Lab4_OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mark/Projects/Lab4_OOP/Lab4_OOP/obj/Debug/net5.0/Lab4_OOP.AssemblyInfoInputs.cache
+/Users/mark/Projects/Lab4_OOP/Lab4_OOP/obj/Debug/net5.0/Lab4_OOP.AssemblyInfo.cs
+/Users/mark/Projects/Lab4_OOP/Lab4_OOP/obj/Debug/net5.0/Lab4_OOP.csproj.CoreCompileInputs.cache
+/Users/mark/Projects/Lab4_OOP/Lab4_OOP/obj/Debug/net5.0/Lab4_OOP.dll
+/Users/mark/Projects/Lab4_OOP/Lab4_OOP/obj/Debug/net5.0/ref/Lab4_OOP.dll
+/Users/mark/Projects/Lab4_OOP/Lab4_OOP/obj/Debug/net5.0/Lab4_OOP.pdb
+/Users/mark/Projects/Lab4_OOP/Lab4_OOP/obj/Debug/net5.0/Lab4_OOP.genruntimeconfig.cache

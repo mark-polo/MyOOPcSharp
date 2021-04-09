@@ -1,0 +1,13 @@
+/Users/mark/Projects/OOP_lab_3/OOP_lab_3/bin/Debug/OOP_lab_3.exe
+/Users/mark/Projects/OOP_lab_3/OOP_lab_3/bin/Debug/OOP_lab_3.pdb
+/Users/mark/Projects/OOP_lab_3/OOP_lab_3/obj/Debug/actool/_PartialAppManifest.items
+/Users/mark/Projects/OOP_lab_3/OOP_lab_3/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/mark/Projects/OOP_lab_3/OOP_lab_3/obj/Debug/ibtool-manifests/Main.storyboardc
+/Users/mark/Projects/OOP_lab_3/OOP_lab_3/obj/Debug/ibtool/Main.storyboardc/MainMenu.nib
+/Users/mark/Projects/OOP_lab_3/OOP_lab_3/obj/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+/Users/mark/Projects/OOP_lab_3/OOP_lab_3/obj/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/mark/Projects/OOP_lab_3/OOP_lab_3/obj/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/mark/Projects/OOP_lab_3/OOP_lab_3/obj/Debug/OOP_lab_3.csprojAssemblyReference.cache
+/Users/mark/Projects/OOP_lab_3/OOP_lab_3/obj/Debug/OOP_lab_3.csproj.CoreCompileInputs.cache
+/Users/mark/Projects/OOP_lab_3/OOP_lab_3/obj/Debug/OOP_lab_3.exe
+/Users/mark/Projects/OOP_lab_3/OOP_lab_3/obj/Debug/OOP_lab_3.pdb

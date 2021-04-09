@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="OOP_pr_7">
+      <HintPath>..\..\OOP_pr_7\OOP_pr_7\bin\Release\net5.0\OOP_pr_7.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

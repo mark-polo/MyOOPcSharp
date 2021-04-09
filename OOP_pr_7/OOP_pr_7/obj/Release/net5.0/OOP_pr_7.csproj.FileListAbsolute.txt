@@ -1,0 +1,11 @@
+/Users/mark/Projects/OOP_pr_7/OOP_pr_7/bin/Release/net5.0/OOP_pr_7.deps.json
+/Users/mark/Projects/OOP_pr_7/OOP_pr_7/bin/Release/net5.0/OOP_pr_7.dll
+/Users/mark/Projects/OOP_pr_7/OOP_pr_7/bin/Release/net5.0/ref/OOP_pr_7.dll
+/Users/mark/Projects/OOP_pr_7/OOP_pr_7/bin/Release/net5.0/OOP_pr_7.pdb
+/Users/mark/Projects/OOP_pr_7/OOP_pr_7/obj/Release/net5.0/OOP_pr_7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mark/Projects/OOP_pr_7/OOP_pr_7/obj/Release/net5.0/OOP_pr_7.AssemblyInfoInputs.cache
+/Users/mark/Projects/OOP_pr_7/OOP_pr_7/obj/Release/net5.0/OOP_pr_7.AssemblyInfo.cs
+/Users/mark/Projects/OOP_pr_7/OOP_pr_7/obj/Release/net5.0/OOP_pr_7.csproj.CoreCompileInputs.cache
+/Users/mark/Projects/OOP_pr_7/OOP_pr_7/obj/Release/net5.0/OOP_pr_7.dll
+/Users/mark/Projects/OOP_pr_7/OOP_pr_7/obj/Release/net5.0/ref/OOP_pr_7.dll
+/Users/mark/Projects/OOP_pr_7/OOP_pr_7/obj/Release/net5.0/OOP_pr_7.pdb
